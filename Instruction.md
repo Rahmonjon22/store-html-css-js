@@ -37,3 +37,10 @@ majd.alsaeed13m@gmail.com => Majd Alsaeed
 <a href="https://www.linkedin.com/in/majd-alsaeed-89b544218/">
   <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" />
 </a>  
+
+mlizamaoliger@gmail.com => Mauricio Lizama
+
+<p align="left">
+<a href="https://www.linkedin.com/in/mauriciolizama">
+  <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" />
+</a>  
